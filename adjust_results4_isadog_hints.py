@@ -3,7 +3,7 @@
 # */AIPND-revision/intropyproject-classify-pet-images/adjust_results4_isadog_hints.py
 #                                                                             
 # PROGRAMMER: Kashish Bhasin 
-# DATE CREATED: 9th November                                  
+# DATE CREATED: 9th November 2023                                  
 # REVISED DATE: 
 # PURPOSE: This is a *hints* file to help guide students in creating the 
 #          function adjust_results4_isadog that adjusts the results dictionary
