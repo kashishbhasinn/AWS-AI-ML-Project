@@ -86,7 +86,7 @@ def classify_images(images_dir, results_dic, model):
        #
        # Processes the results so they can be compared with pet image labels
        # set labels to lowercase (lower) and stripping off whitespace(strip)
-       model_label=model_label.lower()
+       model_label= model_label.lower().replace(" ", "")
 #        print(model_label)
               
        # defines truth as pet image label 
